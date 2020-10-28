@@ -1,0 +1,1 @@
+<?php /**PATH C:\wamp\www\GestionProgramme\resources\views/programme/classe.blade.php ENDPATH**/ ?>

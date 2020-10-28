@@ -1,0 +1,1 @@
+<?php /**PATH C:\wamp64\www\GestionProgramme\resources\views/utilisateur/OpenReferentiel.blade.php ENDPATH**/ ?>
